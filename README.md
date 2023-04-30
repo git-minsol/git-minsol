@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there  I'm MinSol Kim! 👋
+
+- 🌱 I’m currently learning MS Azure, AI(computer vision, ML), Docker, Kubernetis.
+- 🤔 I’m looking for help with Cloud Support Enginner, Cloud Developer!
 
 <!--
 **git-minsol/git-minsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
